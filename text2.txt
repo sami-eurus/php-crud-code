@@ -1,0 +1,2 @@
+This is text file 2
+this is line 1 from main
