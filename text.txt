@@ -1,9 +1,6 @@
 This is line 1
 This is line 2
 This is line 3
-<<<<<<< HEAD
 This is line 4.
-=======
-This is line 4
 This is line 5
->>>>>>> 665257dc01547d2facc3b60c671d7ceec5cf1e51
+This is line 6
