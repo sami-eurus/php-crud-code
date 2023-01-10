@@ -1,6 +1,6 @@
-Text 1 in text.txt file of dev branch.
+Text 1 in text.txt file of test branch.
 This is line one
 This is line two
 
 
-dev branch
+test branch
