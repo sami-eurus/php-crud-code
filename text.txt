@@ -1,2 +1,3 @@
 Text file in branch test
 this is its content.
+Its another line for content
