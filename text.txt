@@ -2,5 +2,6 @@ Text 1 in text.txt file of dev branch.
 This is line one
 This is line two
 This is line three
-
+This is line four
+This is line five
 dev branch
