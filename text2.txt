@@ -1,6 +1,0 @@
-This is text-file 2
-this is line 1 from main
-This is line 2 from main
-This is line 3 from main
-This is line 4 from main
-This is line 5 from main

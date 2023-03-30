@@ -1,6 +1,0 @@
-This is line 1 from main
-This is line two from main
-This is line 3 from main
-This is line 4 from main
-This is line 5 from main
-THis is line 6 from main
